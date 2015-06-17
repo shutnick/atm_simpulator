@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ATM simulator</string>
+
+    <string name="inventory">Available cash:</string>
+    <string name="fill_atm_action">Fill the ATM</string>
+
+    <string name="warning_title_atm_error">ATM error</string>
+    <string name="warning_message_atm_error">Not enough bills for sum %1$d \n Available sum is: %2$d</string>
+    <string name="warning_title_input_error">Wrong sum entered %s</string>
+    <string name="warning_message_not_decimal">Sum should be a multiple of $1</string>
+    <string name="warning_message_not_number">Enter correct numeric sum</string>
+</resources>

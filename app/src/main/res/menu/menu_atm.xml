@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".AtmActivity">
+    <item android:id="@+id/fill_atm" android:title="@string/fill_atm_action"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
